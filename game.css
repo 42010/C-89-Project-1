@@ -35,5 +35,5 @@ float: none;
 text-align: left;
 }
 #login_button .hover{
-	background-color: red;
+	background-color: rgba(255, 94, 0, 0.87);
 }
